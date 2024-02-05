@@ -1,0 +1,32 @@
+{
+  "Bulbasaur":{
+    "type": "leaf",
+    "lv": 1
+    "hp": 10,
+    "atk":{
+      "tackle": 2,
+      "vine-whip": 4
+    },
+    "def": 4
+  },
+  "Charmander":{
+    "type": "fire",
+    "lv": 1,
+    "hp": 10,
+    "atk":{
+      "scratch": 2,
+      "ember": 4,
+    }
+    "def": 4
+  },
+  "Squirtle":{
+    "type": "water",
+    "lv": 1,
+    "hp": 10,
+    "atk":{
+      "tail-whip": 2,
+      "water-gun": 4
+    },
+    "def": 4
+  }
+}
